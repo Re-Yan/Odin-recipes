@@ -1,2 +1,2 @@
 # Odin-recipes
-html code for a simple recipe website
+html code for for a simple recipe website (will be used for future lessons in TOP)
