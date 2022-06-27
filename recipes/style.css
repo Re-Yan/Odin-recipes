@@ -1,0 +1,16 @@
+.main-div {
+    background-color: beige;
+}
+
+.bicol-div {
+    padding: 20px;
+    background-color: rgba(130, 176, 250, .8)
+}
+
+.sinigang-div {
+    background-color: greenyellow;
+}
+
+.description {
+    color: brown;
+}
