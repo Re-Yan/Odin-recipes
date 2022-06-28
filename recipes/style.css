@@ -2,6 +2,13 @@
     background-color: beige;
 }
 
+.bicol-div,
+.sinigang-div,
+.kare-kare-div {
+    margin: 5px 10px;
+    display: flex;
+    align-items: center;
+}
 .bicol-div {
     padding: 20px;
     background-color: rgba(130, 176, 250, .8)
@@ -11,6 +18,16 @@
     background-color: greenyellow;
 }
 
+.kare-kare-div {
+    background-color: violet;
+}
+
 .description {
-    color: brown;
+    font-size: 30px;
+    color: rgb(20, 19, 19);
+}
+
+.recipe-pic {
+    width: 500px;
+    height: auto;
 }
